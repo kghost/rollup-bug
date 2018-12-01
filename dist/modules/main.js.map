@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","sources":["../../src/main.js"],"sourcesContent":["import * as ms from './m1.js';\n\nfor (var m in ms) {\n\tconsole.log(m)\n}\n"],"names":[],"mappings":";;;AAEA,KAAK,IAAI,CAAC,IAAI,EAAE,EAAE;CACjB,OAAO,CAAC,GAAG,CAAC,CAAC,EAAC;CACd"}

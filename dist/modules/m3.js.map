@@ -1,0 +1,1 @@
+{"version":3,"file":"m3.js","sources":["../../src/m3.js"],"sourcesContent":["var m3 = {b:2};\nexport default m3;\n"],"names":[],"mappings":"AAAA,IAAI,EAAE,GAAG,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;;;;"}
